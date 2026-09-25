@@ -1,0 +1,28 @@
+site_name: karita
+site_url: https://karita.getperf.net
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: ダークモードに切り替え
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: ライトモードに切り替え
+  features:
+    - navigation.footer
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - ホーム: index.md
+  - プライバシーポリシー: privacy.md
+  - 利用規約: terms.md
