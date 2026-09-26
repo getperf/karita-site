@@ -19,6 +19,17 @@ karita プロジェクト（karita アプリ、ブラウザ拡張「karita に�
 pip install mkdocs-material
 ```
 
+**uv を使う場合**（動作確認済み。ローカル専用で、CI は上の `requirements.txt` を使う）:
+
+```bash
+uv venv
+uv pip install -r requirements.txt
+```
+
+`pyproject.toml` / `uv.lock` はコミットしない。依存の正本は `requirements.txt`
+（GitHub Actions もこちらを読む）の1本に保ち、`uv` はローカルの実行環境を作るためだけに
+使う。
+
 ### 2. ローカルでの動作確認
 
 ```bash
