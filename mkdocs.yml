@@ -4,6 +4,8 @@ site_url: https://karita.getperf.net
 theme:
   name: material
   language: ja
+  logo: img/karita_icon.png
+  favicon: img/karita_icon.png
   palette:
     - scheme: default
       primary: indigo
