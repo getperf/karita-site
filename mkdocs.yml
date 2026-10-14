@@ -28,3 +28,7 @@ nav:
   - ホーム: index.md
   - プライバシーポリシー: privacy.md
   - 利用規約: terms.md
+
+# Internal planning documents are not published.
+exclude_docs: |
+  /plans/
