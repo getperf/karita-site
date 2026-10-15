@@ -21,13 +21,28 @@ theme:
         name: ライトモードに切り替え
   features:
     - navigation.footer
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: false
+
 extra_css:
   - stylesheets/extra.css
 
 nav:
   - ホーム: index.md
+  - ブラウザー拡張の入れ方: extensions/index.md
   - プライバシーポリシー: privacy.md
   - 利用規約: terms.md
+
+# The link-check page is reached from the karita app and the guide only.
+not_in_nav: |
+  /extensions/check.md
 
 # Internal planning documents are not published.
 exclude_docs: |
