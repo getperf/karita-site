@@ -10,7 +10,7 @@ Edge・Chrome・Firefox で使えます。
 
 === "Edge / Chrome"
 
-    1. [karita-send-0.5.1.zip](../downloads/karita-send-0.5.1.zip) をダウンロードし、**消さない場所**へ展開します（例: `ドキュメント\karita-send`）。
+    1. [karita-send-0.6.0.zip](../downloads/karita-send-0.6.0.zip) をダウンロードし、**消さない場所**へ展開します（例: `ドキュメント\karita-send`）。
        展開したフォルダーを消すと、拡張も動かなくなります。
     2. アドレスバーに `edge://extensions`（Chrome は `chrome://extensions`）と入力して開きます。
     3. **開発者モード**をオンにします。
@@ -36,7 +36,7 @@ Edge・Chrome・Firefox で使えます。
 
 karita の「ブラウザープラグインのインストール」で［確認用ページを開く］を押すか、
 [確認用ページ](check.md) を開いて、ページの案内どおりに送ってください。
-初めて送るときに出る許可の画面も、確認用ページで説明しています。
+図書館のサイトで初めて押したときに出る許可も、確認用ページで説明しています。
 karita に「つながりました」と出れば完了です。
 
 ## うまくいかないとき {#trouble}
