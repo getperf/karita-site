@@ -36,6 +36,17 @@ extra_css:
 
 nav:
   - ホーム: index.md
+  - 使い方:
+      - ガイドの入口: guide/index.md
+      - Windows のセットアップ: guide/windows/setup.md
+      - 図書を予約する（Windows）: guide/windows/reservation.md
+      - 貸出しの棚卸をする: guide/loans.md
+      - 本棚・レビューを使う: guide/bookshelf.md
+      - 設定を変更する: guide/settings.md
+      - 同期・バックアップ・復元: guide/data.md
+      - Android を2台目として追加する: guide/android/second-device.md
+      - 図書を予約する（Android）: guide/android/reservation.md
+      - 困ったとき: guide/troubleshooting.md
   - ブラウザー拡張の入れ方: extensions/index.md
   - プライバシーポリシー: privacy.md
   - 利用規約: terms.md
