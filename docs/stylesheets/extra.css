@@ -17,3 +17,27 @@
   font-size: .75rem;
   text-align: center;
 }
+
+/* Keep the overview's three columns within narrow screens. */
+.md-typeset .karita-overview-table .md-typeset__table {
+  display: block;
+}
+.md-typeset .karita-overview-table table:not([class]) {
+  display: table;
+  width: 100%;
+  min-width: 0;
+  table-layout: fixed;
+}
+.md-typeset .karita-overview-table th,
+.md-typeset .karita-overview-table td {
+  min-width: 0;
+  padding: .6em;
+  overflow-wrap: anywhere;
+}
+.md-typeset .karita-overview-image {
+  display: block;
+  width: 480px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
