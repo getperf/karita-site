@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="670" viewBox="0 0 960 670" role="img" aria-labelledby="title desc">
+<title id="title">カーリル・図書館サイトと karita の連携</title>
+<desc id="desc">カーリルで本と蔵書を探し、図書館サイトで予約などの手続きを行います。Windowsの拡張またはAndroidの共有で本のURLをkaritaに渡し、利用者が予約・貸出しの状態と期限を記録します。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#4053ad" stroke-width="1.5"/></marker></defs>
+<rect width="960" height="670" rx="12" fill="#fff"/>
+<g font-family="'Yu Gothic','Meiryo',sans-serif" fill="#26324b">
+<text x="40" y="47" font-size="25" font-weight="700">karita 図書の貸し出し管理の流れ</text>
+<rect x="40" y="74" width="880" height="210" rx="12" fill="#f4f6fb" stroke="#dbe1ef"/>
+<text x="62" y="106" font-size="16" fill="#56637b">ブラウザーで利用する外部サイト</text>
+<rect x="70" y="128" width="320" height="127" rx="9" fill="#fff" stroke="#b8c3df"/>
+<text x="94" y="163" font-size="24" font-weight="700">カーリル</text>
+<text x="94" y="196" font-size="18">本・図書館の蔵書を探す</text>
+<text x="94" y="226" font-size="16" fill="#56637b">本の詳細ページが記録の入口</text>
+<path d="M400 190 H552" fill="none" stroke="#4053ad" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="476" y="166" text-anchor="middle" font-size="16">図書館へ</text>
+<rect x="570" y="128" width="320" height="127" rx="9" fill="#fff" stroke="#b8c3df"/>
+<text x="594" y="163" font-size="24" font-weight="700">図書館サイト</text>
+<text x="594" y="196" font-size="18">ログイン・予約・延長など</text>
+<text x="594" y="226" font-size="16" fill="#56637b">実際の状態・返却期限を確認</text>
+<path d="M100 284 V363" fill="none" stroke="#4053ad" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="320" y="318" text-anchor="middle" font-size="17" fill="#4053ad"><tspan x="320">本の URL を送る</tspan><tspan x="320" dy="25" font-size="14">Windows: ブラウザー拡張 ／ Android: 共有</tspan></text>
+<path d="M590 284 V363" fill="none" stroke="#4053ad" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+<text x="760" y="318" text-anchor="middle" font-size="17" fill="#4053ad"><tspan x="760">確認した内容を手動で記録</tspan><tspan x="760" dy="25" font-size="14">状態・期限は自動取得されません</tspan></text>
+<rect x="40" y="375" width="880" height="179" rx="12" fill="#edf1ff" stroke="#4053ad" stroke-width="2"/>
+<text x="67" y="416" font-size="29" font-weight="700" fill="#3548a0">karita</text>
+<text x="67" y="444" font-size="16" fill="#56637b">Windows / Android</text>
+<path d="M290 399 V528" stroke="#c3cceb"/>
+<text x="320" y="416" font-size="20" font-weight="700">複数の図書館の記録をひとつに</text>
+<text x="320" y="452" font-size="18">予約・受取・貸出し・返却の記録と期限</text>
+<text x="320" y="484" font-size="18">読みたい本・読んだ本の本棚</text>
+<text x="320" y="516" font-size="18">評価・レビュー・読書履歴</text>
+<text x="40" y="597" font-size="18" font-weight="700">手続きは図書館サイトで。日々の記録は karita に。</text>
+<text x="40" y="629" font-size="16" fill="#56637b">図書館サイトからは、拡張で元のカーリル書籍を送ったり、karita の貸出し画面へ戻れます。</text>
+</g></svg>
+
