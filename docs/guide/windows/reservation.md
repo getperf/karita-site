@@ -1,8 +1,5 @@
 # 図書を予約する（Windows）
 
-!!! note "ドラフト・配布版での通し確認待ち"
-    [Windows のセットアップ](setup.md)が済んだ状態から始めます。
-
 **ゴール：図書館で予約を済ませ、同じ本を karita に「予約した」と記録します。**
 
 <div class="karita-flow" aria-label="予約の流れ">

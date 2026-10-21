@@ -1,8 +1,5 @@
 # Android を2台目として追加する
 
-!!! note "ドラフト・Android 実機確認待ち"
-    配布先、導入画面、同期完了の表示を確認して追記します。Windows で既に記録を使っている人向けです。
-
 **ゴール：Windows の記録を Android で開き、両方で変更を共有できる状態にします。**
 
 <div class="karita-flow" aria-label="Android 追加の流れ">

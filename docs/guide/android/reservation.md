@@ -1,8 +1,5 @@
 # 図書を予約する（Android）
 
-!!! note "ドラフト・共有操作の実機確認待ち"
-    Android の共有先の表示名・アプリへの戻り方・画像は確認後に確定します。
-
 <div class="karita-flow" aria-label="Android 予約の流れ">
 <div><b>karita → ブラウザー：カーリル</b><br>本を探す</div><span>↓</span>
 <div><b>ブラウザー：図書館サイト</b><br>予約を完了する</div><span>↓ カーリルの本の詳細へ戻る</span>

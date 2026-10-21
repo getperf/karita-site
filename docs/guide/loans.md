@@ -2,9 +2,6 @@
 
 図書館サイトと照合して、受取・貸出し・返却の記録を更新します。
 
-!!! note "ドラフト"
-    Windows の画面例です。Android の戻り方は実機確認後に補足します。
-
 <div class="karita-flow" aria-label="棚卸の流れ">
 <div><b>① karita</b><br>貸出しから図書館を選ぶ</div><span>↓ ［図書館サイトを開く］</span>
 <div><b>② ブラウザー：図書館サイト</b><br>予約状況・貸出中の本・期限を確認</div><span>↓ karita に戻る</span>

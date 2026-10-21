@@ -20,7 +20,7 @@ karita は、複数の図書館の予約・貸出し記録と読書履歴をま�
 
 ## 利用案内
 
-- [使い方ガイド（ドラフト）](guide/index.md)
+- [使い方](guide/index.md)
 - [ブラウザー拡張の入れ方](extensions/index.md)
 - [プライバシーポリシー](privacy.md)
 - [利用規約](terms.md)
