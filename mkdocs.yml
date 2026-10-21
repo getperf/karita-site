@@ -39,7 +39,7 @@ nav:
   - 使い方:
       - ガイドの入口: guide/index.md
       - Windows のセットアップ: guide/windows/setup.md
-      - 図書を予約する（Windows）: guide/windows/reservation.md
+      - 図書を予約する: guide/windows/reservation.md
       - 貸出しの棚卸をする: guide/loans.md
       - 本棚・レビューを使う: guide/bookshelf.md
       - 設定を変更する: guide/settings.md

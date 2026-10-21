@@ -20,13 +20,10 @@ karita、カーリル、図書館サイトを行き来して、本を探し、�
 
 </div>
 
-Windows では拡張機能から元のカーリル書籍を送ります。Android では元のカーリルの本の詳細ページに戻り、ブラウザーの共有から送ります。詳しくは [Windows の予約手順](windows/reservation.md)・[Android の予約手順](android/reservation.md)を参照してください。
-
-### 画面で見る予約の流れ
-
 [![karita からカーリル、図書館サイトへ進み、予約後に karita に戻って記録する画面例](../img/guide/reservation-overview.png){ .karita-overview-image width="480" }](../img/guide/reservation-overview.png)
 
-予約時の画面遷移の例です。操作の順序は上の表を参照してください。図を押すと原寸で確認できます。
+予約時の画面遷移の例です。
+Windows では拡張機能から元のカーリル書籍を送ります。Android では元のカーリルの本の詳細ページに戻り、ブラウザーの共有から送ります。詳しくは [Windows の予約手順](windows/reservation.md)・[Android の予約手順](android/reservation.md)を参照してください。
 
 ## 予約した後の流れ
 
