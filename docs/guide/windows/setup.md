@@ -1,7 +1,7 @@
 # Windows のセットアップ
 
 !!! note "ドラフト"
-    Store の正式な入手先・対象者の案内と、配布版の画面確認を追加予定です。
+    正式な入手先を掲載しています。ストアからの新規導入・認証・拡張連携の通し確認は実機検証予定です。
 
 **ゴール：図書館を登録し、ブラウザーから karita に情報を送れる状態にします。**
 
@@ -15,7 +15,11 @@
 
 ## 1. インストールする
 
-**【Microsoft Store】** karita の製品ページからインストールし、［開く］で起動します。
+1. **【ブラウザー】** [Microsoft Store の karita](https://apps.microsoft.com/detail/9P4DVHV81JSP?hl=ja-JP&gl=JP) を開きます。
+2. 製品名が **karita**、発行元が **Getperf** であることを確認し、ページの案内に従って Microsoft Store からインストールします。
+3. **【Windows】** インストール後、karita を起動します。
+
+製品ページを開けない場合は、Windows の Microsoft Store で「karita」を検索してください。製品 ID は `9P4DVHV81JSP` です。
 
 ## 2. Google にサインインする
 
