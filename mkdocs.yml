@@ -38,7 +38,10 @@ nav:
   - ホーム: index.md
   - 使い方:
       - ガイドの入口: guide/index.md
-      - Windows のセットアップ: guide/windows/setup.md
+      - Windows のセットアップ:
+          - 1〜3. インストール・初期設定: guide/windows/setup.md
+          - 4. ブラウザーとつなぐ: extensions/index.md
+          - 5. 図書館を登録する: guide/windows/libraries.md
       - 図書を予約する: guide/windows/reservation.md
       - 貸出しの棚卸をする: guide/loans.md
       - 本棚・レビューを使う: guide/bookshelf.md
@@ -47,7 +50,6 @@ nav:
       - Android を2台目として追加する: guide/android/second-device.md
       - 図書を予約する（Android）: guide/android/reservation.md
       - 困ったとき: guide/troubleshooting.md
-  - ブラウザー拡張の入れ方: extensions/index.md
   - プライバシーポリシー: privacy.md
   - 利用規約: terms.md
 

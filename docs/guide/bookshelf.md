@@ -18,3 +18,5 @@
 ![本の記録で評価とレビューを保存](../img/guide/review.png){ width="360" }
 
 [ガイドの入口へ](index.md)
+
+[困ったとき](troubleshooting.md)

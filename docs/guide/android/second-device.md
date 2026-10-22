@@ -28,6 +28,6 @@
 3. **【Windows の karita】** 同じ本で変更が反映されたことを確認します。
 4. Windows でその記録を変更し、Android にも反映されることを確認します。
 
-記録が出ないときは、同じ本や図書館を登録し直す前に[同期の確認](../data.md)を行ってください。
+[記録が出ない・変更が反映されないとき](../troubleshooting.md#sync)
 
 [次へ：Android で図書を予約する →](reservation.md)
