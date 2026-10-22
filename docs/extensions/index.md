@@ -5,28 +5,46 @@
 
 ## 1. ストアから入れる
 
-使用するブラウザーで、そのブラウザー用の掲載ページを開いてください。
+拡張を入れるブラウザーを先に起動してください。下の URL をコピーし、そのブラウザーのアドレスバーへ貼り付けて Enter キーを押します。
 拡張はブラウザーごとにインストールします。ZIP の展開や開発者モードの設定は不要です。
 
 === "Edge"
 
-    1. **Edge** で [Edge アドオンの「karita に送る」](https://microsoftedge.microsoft.com/addons/detail/hihnlcmokajbhleeediopaoflkllmgaa) を開きます。
-    2. 名前が **karita に送る**、提供元が **Getperf** であることを確認します。
-    3. ページのインストールボタンを押し、表示されるアクセス内容を確認して追加します。
+    1. **Microsoft Edge** を起動します。
+    2. 次の URL をコピーし、**Edge のアドレスバー**へ貼り付けて Enter キーを押します。
+
+        ```text
+        https://microsoftedge.microsoft.com/addons/detail/hihnlcmokajbhleeediopaoflkllmgaa
+        ```
+
+    3. 名前が **karita に送る**、提供元が **Getperf** であることを確認します。
+    4. ページのインストールボタンを押し、表示されるアクセス内容を確認して追加します。
 
 === "Chrome"
 
-    1. **Chrome** で [Chrome ウェブストアの「karita に送る」](https://chromewebstore.google.com/detail/apkcdfgkmojfmgenockhgddmjcjpbphp) を開きます。
-    2. 名前が **karita に送る** であることを確認します。
-    3. ［Chrome に追加］を押し、表示されるアクセス内容を確認して追加します。
+    1. **Google Chrome** を起動します。
+    2. 次の URL をコピーし、**Chrome のアドレスバー**へ貼り付けて Enter キーを押します。
+
+        ```text
+        https://chromewebstore.google.com/detail/apkcdfgkmojfmgenockhgddmjcjpbphp
+        ```
+
+    3. 名前が **karita に送る** であることを確認します。
+    4. ［Chrome に追加］を押し、表示されるアクセス内容を確認して追加します。
 
 === "Firefox"
 
     Firefox 142 以降が対象です。
 
-    1. **Firefox** で [Firefox アドオンの「karita に送る」](https://addons.mozilla.org/ja/firefox/addon/karita-%E3%81%AB%E9%80%81%E3%82%8B/) を開きます。
-    2. 名前が **karita に送る**、提供元が **Getperf** であることを確認します。
-    3. ［Firefox へ追加］を押し、表示されるアクセス内容を確認して追加します。
+    1. **Mozilla Firefox** を起動します。
+    2. 次の URL をコピーし、**Firefox のアドレスバー**へ貼り付けて Enter キーを押します。
+
+        ```text
+        https://addons.mozilla.org/ja/firefox/addon/karita-%E3%81%AB%E9%80%81%E3%82%8B/
+        ```
+
+    3. 名前が **karita に送る**、提供元が **Getperf** であることを確認します。
+    4. ［Firefox へ追加］を押し、表示されるアクセス内容を確認して追加します。
 
 ## 2. ツールバーに出す（ピン留め）
 
@@ -51,6 +69,7 @@ karita に **「つながりました」** と出れば完了です。
 
 ## うまくいかないとき {#trouble}
 
+- **「お使いのブラウザーと互換性がありません」と出る**: 掲載先とブラウザーが合っていない可能性があります。上のブラウザー別手順で開き直してください。
 - **ストアで追加できない**: 対象のブラウザーで掲載ページを開いているか確認してください。組織の管理設定により追加できない場合もあります。
 - **何も起きない**: 同じ Windows 端末に karita が入っているか確かめてください。ポップアップの［ここから karita を開く］も試してください。
 - **「Web ページのタブで押してください」と出る**: ストアやブラウザーの設定画面ではなく、確認用ページなど普通の Web ページで試してください。
