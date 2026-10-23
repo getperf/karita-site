@@ -6,7 +6,7 @@ karita プロジェクト（karita アプリ、ブラウザ拡張「karita に�
 
 ## 概要
 
-- 対象: karita アプリ（Windows / Android）、ブラウザ拡張「karita に送る」（Chrome / Edge）
+- 対象: karita アプリ（Windows / Android / iOS）、ブラウザ拡張「karita に送る」（Chrome / Edge）
 - 内容: プライバシーポリシー・利用規約、ブラウザー拡張の入れ方と連携確認ページ（`/extensions/`・`/extensions/check/`。karita アプリが直接開く URL なので、パスを変えない）
 - 技術スタック: MkDocs Material, GitHub Pages
 

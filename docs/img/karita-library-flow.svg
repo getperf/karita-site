@@ -18,12 +18,12 @@
 <text x="594" y="196" font-size="18">ログイン・予約・延長など</text>
 <text x="594" y="226" font-size="16" fill="#56637b">実際の状態・返却期限を確認</text>
 <path d="M100 284 V363" fill="none" stroke="#4053ad" stroke-width="2" marker-end="url(#arrow)"/>
-<text x="320" y="318" text-anchor="middle" font-size="17" fill="#4053ad"><tspan x="320">本の URL を送る</tspan><tspan x="320" dy="25" font-size="14">Windows: ブラウザー拡張 ／ Android: 共有</tspan></text>
+<text x="320" y="318" text-anchor="middle" font-size="17" fill="#4053ad"><tspan x="320">本の URL を送る</tspan><tspan x="320" dy="25" font-size="14">Windows: ブラウザー拡張 ／ Android・iOS: 共有</tspan></text>
 <path d="M590 284 V363" fill="none" stroke="#4053ad" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
 <text x="760" y="318" text-anchor="middle" font-size="17" fill="#4053ad"><tspan x="760">確認した内容を手動で記録</tspan><tspan x="760" dy="25" font-size="14">状態・期限は自動取得されません</tspan></text>
 <rect x="40" y="375" width="880" height="179" rx="12" fill="#edf1ff" stroke="#4053ad" stroke-width="2"/>
 <text x="67" y="416" font-size="29" font-weight="700" fill="#3548a0">karita</text>
-<text x="67" y="444" font-size="16" fill="#56637b">Windows / Android</text>
+<text x="67" y="444" font-size="16" fill="#56637b">Windows / Android / iOS</text>
 <path d="M290 399 V528" stroke="#c3cceb"/>
 <text x="320" y="416" font-size="20" font-weight="700">複数の図書館の記録をひとつに</text>
 <text x="320" y="452" font-size="18">予約・受取・貸出し・返却の記録と期限</text>
