@@ -36,6 +36,8 @@ extra_css:
 
 nav:
   - ホーム: index.md
+  # Temporary: remove this entry and closed-test.md after the closed test.
+  - Android版クローズドテスト: closed-test.md
   - 使い方:
       - ガイドの入口: guide/index.md
       - Windows のセットアップ:
