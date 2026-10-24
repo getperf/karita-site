@@ -23,7 +23,7 @@ karita、カーリル、図書館サイトを行き来して、本を探し、�
 [![karita からカーリル、図書館サイトへ進み、予約後に karita に戻って記録する画面例](../img/guide/reservation-overview.png){ .karita-overview-image width="480" }](../img/guide/reservation-overview.png)
 
 予約時の画面遷移の例です。
-Windows では拡張機能から元のカーリル書籍を送ります。Android では元のカーリルの本の詳細ページに戻り、ブラウザーの共有から送ります。詳しくは [Windows の予約手順](windows/reservation.md)・[Android の予約手順](android/reservation.md)を参照してください。
+Windows では拡張機能から元のカーリル書籍を送ります。Android・iPhone では元のカーリルの本の詳細ページに戻り、ブラウザーの共有から送ります。詳しくは [Windows の予約手順](windows/reservation.md)・[Android の予約手順](android/reservation.md)・[iPhone の予約手順](ios/add-device.md#share)を参照してください。
 
 ## 予約した後の流れ
 
@@ -39,12 +39,14 @@ Windows では拡張機能から元のカーリル書籍を送ります。Androi
 1. [Windows のセットアップ](windows/setup.md)
 2. [図書を予約する](windows/reservation.md)
 3. [Android を2台目として追加する](android/second-device.md)
+4. [スマホ（iPhone）を追加する](ios/add-device.md)
 
 ## 目的から探す
 
 - [設定を変更する](settings.md)
 - [同期・バックアップ・復元](data.md)
 - [Android で図書を予約する](android/reservation.md)
+- [iPhone で図書を予約する](ios/add-device.md#share)
 - [困ったとき](troubleshooting.md)
 
 各手順の **【karita】**・**【ブラウザー】** が操作場所です。ページ冒頭のフローで全体を見てから、番号順に進めてください。

@@ -51,6 +51,7 @@ nav:
       - 同期・バックアップ・復元: guide/data.md
       - Android を2台目として追加する: guide/android/second-device.md
       - 図書を予約する（Android）: guide/android/reservation.md
+      - スマホ（iPhone）を追加する: guide/ios/add-device.md
       - 困ったとき: guide/troubleshooting.md
   - プライバシーポリシー: privacy.md
   - 利用規約: terms.md

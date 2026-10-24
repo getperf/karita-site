@@ -64,7 +64,15 @@ karita の予約画面で URL を貼り付けたり、手で入力したりし�
 
 確定せずキャンセルし、正しい本の詳細ページから送り直してください。
 
-[Windows の予約手順へ戻る](windows/reservation.md) ／ [Android の予約手順へ戻る](android/reservation.md)
+### iPhone の共有に karita が出ない
+
+共有メニューのアプリの列を右端まで送り、［その他］の中を確認します。［編集］から karita を「よく使う項目」に入れると、次回から最初の画面に並びます。手順は [共有メニューに karita を出す](ios/add-device.md#share-setup) を参照してください。
+
+### iPhone で共有すると「何をしますか？」と表示される
+
+本の詳細ページではなく、別のページやブラウザーの紹介が送られています。キャンセルし、カーリルの本の詳細ページを表示した状態で共有し直してください。
+
+[Windows の予約手順へ戻る](windows/reservation.md) ／ [Android の予約手順へ戻る](android/reservation.md) ／ [iPhone の予約手順へ戻る](ios/add-device.md#share)
 
 ## 同期・端末追加 {#sync}
 
