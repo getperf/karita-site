@@ -1,0 +1,43 @@
+.karita-flow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .4rem;
+  margin: 1.2rem 0;
+}
+.karita-flow > div {
+  width: min(100%, 34rem);
+  padding: .7rem 1rem;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: .4rem;
+  background: var(--md-default-bg-color);
+  text-align: center;
+}
+.karita-flow > span {
+  font-size: .75rem;
+  text-align: center;
+}
+
+/* Keep the overview's three columns within narrow screens. */
+.md-typeset .karita-overview-table .md-typeset__table {
+  display: block;
+}
+.md-typeset .karita-overview-table table:not([class]) {
+  display: table;
+  width: 100%;
+  min-width: 0;
+  table-layout: fixed;
+}
+.md-typeset .karita-overview-table th,
+.md-typeset .karita-overview-table td {
+  min-width: 0;
+  padding: .6em;
+  overflow-wrap: anywhere;
+}
+.md-typeset .karita-overview-image {
+  display: block;
+  width: 480px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
