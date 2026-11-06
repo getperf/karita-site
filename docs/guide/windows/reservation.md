@@ -1,5 +1,7 @@
 # 図書を予約する
 
+画面例・操作はWindows版を標準に説明しています。Android・iPhoneの共有やアプリの切り替えは[スマートフォンでの操作](../smartphone.md)を参照してください。
+
 **ゴール：図書館で予約を済ませ、同じ本を karita に「予約した」と記録します。**
 
 <div class="karita-flow" aria-label="予約の流れ">
@@ -8,6 +10,10 @@
 <div><b>③ 図書館サイト</b><br>ログインして予約を完了</div><span>↓ 拡張で元の本を送る</span>
 <div><b>④ karita</b><br>本・図書館を確認し［予約した］</div>
 </div>
+
+[![予約からkaritaへの記録までの画面遷移例](../../img/guide/reservation-overview.png){ .karita-overview-image width="480" }](../../img/guide/reservation-overview.png)
+
+セットアップが済んだ状態での画面遷移例です。図書館での手続きとkaritaへの記録は別の操作で、状態・期限は自動更新されません。
 
 ## 1. 本を探す
 

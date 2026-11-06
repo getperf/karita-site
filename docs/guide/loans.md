@@ -1,5 +1,7 @@
 # 貸出しの棚卸をする
 
+画面例・操作はWindows版を標準に説明しています。Android・iPhoneの共有やアプリの切り替えは[スマートフォンでの操作](smartphone.md)を参照してください。
+
 図書館サイトと照合して、受取・貸出し・返却の記録を更新します。
 
 <div class="karita-flow" aria-label="棚卸の流れ">

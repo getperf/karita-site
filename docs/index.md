@@ -2,6 +2,10 @@
 
 karita は、複数の図書館の予約・貸出し記録と読書履歴をまとめて管理するアプリです（Windows / Android / iOS 対応）。
 
+[▶ はじめに動画で使い方を見る](https://youtu.be/g-6wYKiPM6M){ .md-button .md-button--primary }
+
+約3分10秒・無音・画面内字幕付き
+
 ## karita でできること
 
 - 複数の図書館の予約・貸出し記録と返却期限を、まとめて確認できます。
@@ -14,15 +18,17 @@ karita は、複数の図書館の予約・貸出し記録と読書履歴をま�
 
 - カーリルで本や図書館の蔵書を探し、図書館サイトで予約などの手続きを行えます。
 - Windows はブラウザー拡張「karita に送る」、Android・iOS はブラウザーの共有から、本の URL を karita へ渡せます。
-- 図書館サイトで確認した予約・貸出しの状態や期限を、自分で karita に記録して管理します。状態や期限は自動取得されません。
+- **図書館での手続きと、karitaへの記録は別の操作です。** 本を送るだけでは予約は完了しません。
+- **予約・貸出しの状態や期限は自動更新されません。** 図書館サイトで確認した内容を、自分でkaritaに記録します。
 
 書誌情報はカーリル・openBD へ端末から直接問い合わせます。記録の同期には利用者自身の Google Drive（アプリ専用領域）を使い、開発者独自のサーバーは持ちません。
 
 ## 利用案内
 
-- [Android版クローズドテストに参加する](closed-test.md)（テスト期間中の暫定案内）
-- [使い方](guide/index.md)
-- [Windows のセットアップ](guide/windows/setup.md)（本体・ブラウザー拡張・図書館登録）
+- セットアップ：[Windows](guide/windows/setup.md) ／ [Android](guide/android/setup.md) ／ [iPhone](guide/ios/add-device.md)
+- 日常の使い方：[予約して記録する](guide/windows/reservation.md) ／ [貸出し・返却](guide/loans.md) ／ [本棚・レビュー](guide/bookshelf.md)
+- [スマートフォンでの操作](guide/smartphone.md)
+- [設定](guide/settings.md) ／ [同期・バックアップ・復元](guide/data.md) ／ [困ったとき](guide/troubleshooting.md)
 - [プライバシーポリシー](privacy.md)
 - [利用規約](terms.md)
 

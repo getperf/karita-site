@@ -1,5 +1,7 @@
 # 本棚・レビューを使う
 
+画面例・操作はWindows版を標準に説明しています。Android・iPhoneの共有やアプリの切り替えは[スマートフォンでの操作](smartphone.md)を参照してください。
+
 この操作は **karita 内で完結**します。
 
 ## 本を探す
@@ -17,6 +19,6 @@
 
 ![本の記録で評価とレビューを保存](../img/guide/review.png){ width="360" }
 
-[ガイドの入口へ](index.md)
+[ホームへ](../index.md)
 
 [困ったとき](troubleshooting.md)

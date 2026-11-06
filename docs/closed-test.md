@@ -1,6 +1,6 @@
 # Android版クローズドテストに参加する
 
-このページはクローズドテスト参加者向けの暫定手順です。テスト終了後に削除します。Windowsを使っていない方も参加できます。
+このページはAndroidクローズドテストのテスター向け専用案内です。Windowsを使っていない方も参加できます。
 
 ## 1. テストに参加してインストールする
 
@@ -22,7 +22,7 @@ karitaを起動し、画面の案内に沿って初回設定を進めます。Go
 
 初回設定後、「予約」「貸出し」「本棚」の各メニューをお試しください。実際に図書館で本を借りなくても操作を試せます。
 
-Windowsをご利用の方は、[Windowsのセットアップ](guide/windows/setup.md)と[Androidを2台目として追加する手順](guide/android/second-device.md)をご覧ください。
+Windowsをご利用の方は、[Windowsのセットアップ](guide/windows/setup.md)と[Androidのセットアップ](guide/android/setup.md)をご覧ください。
 
 ## 3. 操作を試して感想を送る
 
@@ -42,7 +42,7 @@ Windowsをご利用の方は、[Windowsのセットアップ](guide/windows/setu
 
 共有画面の表示は端末・ブラウザーによって異なります。共有するだけでは、図書館への予約やkaritaへの登録は完了しません。実際に予約していない本は、共有後の情報確認まででも試せます。
 
-[Androidの予約手順](guide/android/reservation.md)
+[スマートフォンでの操作](guide/smartphone.md#android)
 
 ### 貸出し
 
@@ -61,4 +61,4 @@ Windowsをご利用の方は、[Windowsのセットアップ](guide/windows/setu
 
 複数端末がある方は、記録の同期もお試しください。
 
-[困ったとき](guide/troubleshooting.md) ／ [ガイドの入口](guide/index.md)
+[困ったとき](guide/troubleshooting.md) ／ [ホーム](index.md)

@@ -2,11 +2,13 @@
 
 本体の導入から図書館の登録まで、次の順に進みます。このページでは手順1〜3を行います。
 
-1. インストールする
-2. Google にサインインする
-3. 開始方法を選ぶ
-4. [ブラウザーとつなぐ（拡張の導入・連携確認）](../../extensions/index.md)
-5. [図書館を登録する](libraries.md)
+<div class="karita-flow" aria-label="Windows セットアップの流れ">
+<div><b>① インストールする</b><br>Microsoft Store から karita を入れる</div><span>↓</span>
+<div><b>② Google にサインインする</b><br>同期に使うアカウントを選ぶ</div><span>↓</span>
+<div><b>③ 開始方法を選ぶ</b><br>新しく始める、または既存の記録へ合流する</div><span>↓ 次のページへ</span>
+<div><b>④ <a href="../../../extensions/">ブラウザーとつなぐ</a></b><br>拡張を入れ、karita との連携を確認する</div><span>↓</span>
+<div><b>⑤ <a href="../libraries/">図書館を登録する</a></b><br>利用する図書館・常用館を選ぶ</div>
+</div>
 
 記録の同期とバックアップに使う **Google アカウント**を用意してください。
 

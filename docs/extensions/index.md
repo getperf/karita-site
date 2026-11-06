@@ -6,17 +6,17 @@ Windows セットアップの **手順4：ブラウザーとつなぐ** です�
 
 ## 1. ストアから入れる
 
-拡張を入れるブラウザーを先に起動してください。下の URL をコピーし、そのブラウザーのアドレスバーへ貼り付けて Enter キーを押します。
+拡張を入れるブラウザーを先に起動してください。下のストアリンクを開きます。別のブラウザーに入れる場合は、URLをコピーし、対象ブラウザーのアドレスバーへ貼り付けてください。
 拡張はブラウザーごとにインストールします。ZIP の展開や開発者モードの設定は不要です。
 
 === "Edge"
 
     1. **Microsoft Edge** を起動します。
-    2. 次の URL をコピーし、**Edge のアドレスバー**へ貼り付けて Enter キーを押します。
+    2. ストアリンクを開きます。別のブラウザーで見ている場合は、下のURLをコピーして **Edge** で開きます。
 
-        ```text
-        https://microsoftedge.microsoft.com/addons/detail/hihnlcmokajbhleeediopaoflkllmgaa
-        ```
+        [ストアを開く](https://microsoftedge.microsoft.com/addons/detail/hihnlcmokajbhleeediopaoflkllmgaa)
+
+        コピー用URL：https://microsoftedge.microsoft.com/addons/detail/hihnlcmokajbhleeediopaoflkllmgaa
 
     3. 名前が **karita に送る**、提供元が **Getperf** であることを確認します。
     4. ページのインストールボタンを押し、表示されるアクセス内容を確認して追加します。
@@ -24,11 +24,11 @@ Windows セットアップの **手順4：ブラウザーとつなぐ** です�
 === "Chrome"
 
     1. **Google Chrome** を起動します。
-    2. 次の URL をコピーし、**Chrome のアドレスバー**へ貼り付けて Enter キーを押します。
+    2. ストアリンクを開きます。別のブラウザーで見ている場合は、下のURLをコピーして **Chrome** で開きます。
 
-        ```text
-        https://chromewebstore.google.com/detail/apkcdfgkmojfmgenockhgddmjcjpbphp
-        ```
+        [ストアを開く](https://chromewebstore.google.com/detail/apkcdfgkmojfmgenockhgddmjcjpbphp)
+
+        コピー用URL：https://chromewebstore.google.com/detail/apkcdfgkmojfmgenockhgddmjcjpbphp
 
     3. 名前が **karita に送る** であることを確認します。
     4. ［Chrome に追加］を押し、表示されるアクセス内容を確認して追加します。
@@ -38,11 +38,11 @@ Windows セットアップの **手順4：ブラウザーとつなぐ** です�
     Firefox 142 以降が対象です。
 
     1. **Mozilla Firefox** を起動します。
-    2. 次の URL をコピーし、**Firefox のアドレスバー**へ貼り付けて Enter キーを押します。
+    2. ストアリンクを開きます。別のブラウザーで見ている場合は、下のURLをコピーして **Firefox** で開きます。
 
-        ```text
-        https://addons.mozilla.org/ja/firefox/addon/karita-%E3%81%AB%E9%80%81%E3%82%8B/
-        ```
+        [ストアを開く](https://addons.mozilla.org/ja/firefox/addon/karita-%E3%81%AB%E9%80%81%E3%82%8B/)
+
+        コピー用URL：https://addons.mozilla.org/ja/firefox/addon/karita-%E3%81%AB%E9%80%81%E3%82%8B/
 
     3. 名前が **karita に送る**、提供元が **Getperf** であることを確認します。
     4. ［Firefox へ追加］を押し、表示されるアクセス内容を確認して追加します。
