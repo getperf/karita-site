@@ -45,10 +45,10 @@ nav:
               - 図書館を登録する: guide/windows/libraries.md
           - Android: guide/android/setup.md
           - iPhone: guide/ios/add-device.md
-      - 日常の使い方:
-          - 本を探す・予約して記録する: guide/windows/reservation.md
-          - 貸出し・返却を記録する: guide/loans.md
-          - 本棚・レビューを使う: guide/bookshelf.md
+      - 使い方:
+          - 「予約」：本を探す・予約して記録する: guide/windows/reservation.md
+          - 「貸出し」：貸出し・返却を記録する: guide/loans.md
+          - 「本棚」：本棚・レビューを使う: guide/bookshelf.md
           - スマートフォンでの操作: guide/smartphone.md
       - 設定・同期・バックアップ:
           - 設定を変更する: guide/settings.md

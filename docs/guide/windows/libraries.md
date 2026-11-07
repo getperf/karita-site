@@ -10,6 +10,6 @@ Windows セットアップの最後の手順です。[ブラウザーとの連�
 
 続けて予約する場合は、図書館の利用者番号・パスワードを用意してください。
 
-[← 前へ：4. ブラウザーとつなぐ](../../extensions/index.md)　[次へ：図書を予約する →](reservation.md)
+[← 前へ：4. ブラウザーとつなぐ](../../extensions/index.md)　[次へ：使い方(図書を予約する) →](reservation.md)
 
 [困ったとき](../troubleshooting.md)
