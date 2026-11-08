@@ -25,6 +25,8 @@ karita は、複数の図書館の予約・貸出し記録と読書履歴をま�
 
 ## 利用案内
 
+**iPhone版のテスト参加者を募集しています。** TestFlightから、どなたでも参加できます。[参加方法](guide/ios/add-device.md#testflight)
+
 - セットアップ：[Windows](guide/windows/setup.md) ／ [Android](guide/android/setup.md) ／ [iPhone](guide/ios/add-device.md)
 - 使い方：[予約して記録する](guide/windows/reservation.md) ／ [貸出し・返却](guide/loans.md) ／ [本棚・レビュー](guide/bookshelf.md)
 - [スマートフォンでの操作](guide/smartphone.md)

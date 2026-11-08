@@ -1,12 +1,18 @@
 # iPhone のセットアップ
 
-**TestFlightでのテスト配布を準備中です。App Storeでの一般公開も準備中です。**
+**TestFlightで公開テスト中です。どなたでも参加できます。App Storeでの一般公開は準備中です。**
 
-## TestFlight からインストールする
+## TestFlight からインストールする {#testflight}
 
-誰でも参加できるTestFlightの公開リンクを準備しています。準備ができ次第、このページに掲載します。
+iOS 15以降のiPhoneで行います。
 
-公開後は、iPhoneに[TestFlight](https://apps.apple.com/jp/app/testflight/id899247664)をインストールし、公開リンクからkaritaのテストに参加してください。
+1. iPhoneに[TestFlight](https://apps.apple.com/jp/app/testflight/id899247664)をインストールします。
+2. iPhoneで公開リンク <https://testflight.apple.com/join/BQGbGq5b> を開きます。
+3. TestFlightの画面で［同意する］→［インストール］を押します。
+
+- 新しい版は、TestFlightアプリから届きます。
+- テスト版には使用期限があります。期限が近づいたら、TestFlightアプリから新しい版を入れてください。
+- 「新規テスターを受け付けていません」と表示されたときは、募集を一時的に止めています。時間をおいてお試しください。
 
 以下はインストール後の手順です。
 
@@ -35,4 +41,22 @@ SafariやChromeでカーリルの本の詳細ページを開き、共有メニ�
 
 ## 操作を試して感想を送る
 
-2週間ほど、実際の図書館の予約・貸出しの記録に使っていただけると助かります。気づいたことや困ったことは、操作した画面と表示されたメッセージを添えて [furu3@getperf.net](mailto:furu3@getperf.net) へお知らせください。画像の個人情報は隠してください。
+2週間ほど、実際の図書館の予約・貸出しの記録に使っていただけると助かります。
+
+### 不具合は TestFlight から送る {#feedback-testflight}
+
+画面の表示がおかしいときや、操作が進まないときに使います。端末・iOS・karitaの版が自動で添えられます。
+
+1. その画面でスクリーンショットを撮ります。
+2. 左下に出る小さな画像を押し、［共有］→［ベータ版のフィードバックを送信］を選びます。
+3. 操作した手順と、表示されたメッセージを書いて送信します。
+
+スクリーンショットを撮らずに送るときは、TestFlightアプリでkaritaを開き、［ベータ版のフィードバックを送信］を押します。karitaが突然終了したときに送信を確認する画面が出たら、そのまま送信してください。
+
+メールアドレスを入力しない限り、送り主は開発者に匿名で表示されます。画像の個人情報（図書館の利用者番号など）は、送る前に隠してください。
+
+### 感想・要望はフォームから送る {#feedback-form}
+
+使ってみた感想や、あったらよい機能は[karita テストのアンケート](https://docs.google.com/forms/d/e/1FAIpQLSc8eWl6bRgsW01X4ZjHz1cAIGV3uSGmEz0dZIQ6MBS0LDBTxQ/viewform)からお送りください。TestFlightから送れないときの不具合の報告にも使えます。
+
+ご質問は [furu3@getperf.net](mailto:furu3@getperf.net) へお問い合わせください。
