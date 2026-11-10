@@ -25,18 +25,23 @@ karita は、複数の図書館の予約・貸出し記録と読書履歴をま�
 
 ## 利用案内
 
-**iPhone版のテスト参加者を募集しています。** TestFlightから、どなたでも参加できます。[参加方法](guide/ios/add-device.md#testflight)
+!!! tip "Android版・iPhone版のテスト参加者を募集しています"
+    どなたでも参加できます。
 
-- セットアップ：[Windows](guide/windows/setup.md) ／ [Android](guide/android/setup.md) ／ [iPhone](guide/ios/add-device.md)
-- 使い方：[予約して記録する](guide/windows/reservation.md) ／ [貸出し・返却](guide/loans.md) ／ [本棚・レビュー](guide/bookshelf.md)
-- [スマートフォンでの操作](guide/smartphone.md)
+    - Android：Google Play のクローズドテスト（[参加方法](closed-test.md)）
+    - iPhone：TestFlight の公開テスト（[参加方法](setup/iphone.md#testflight)）
+
+- セットアップ：[Windows](setup/windows.md) ／ [Android](setup/android.md) ／ [iPhone](setup/iphone.md)
+- 使い方：予約（[Windows](guide/reserve-windows.md)・[Android・iPhone](guide/reserve-smartphone.md)） ／ [貸出し・返却](guide/loans.md) ／ [本棚・レビュー](guide/bookshelf.md)
 - [設定](guide/settings.md) ／ [同期・バックアップ・復元](guide/data.md) ／ [困ったとき](guide/troubleshooting.md)
 - [プライバシーポリシー](privacy.md)
 - [利用規約](terms.md)
 
-## お問い合わせ
+## 感想・お問い合わせ
 
-furu3@getperf.net
+感想・要望・不具合の報告は、Windows・Android・iPhone 共通の[karita テストのアンケート](https://docs.google.com/forms/d/e/1FAIpQLSc8eWl6bRgsW01X4ZjHz1cAIGV3uSGmEz0dZIQ6MBS0LDBTxQ/viewform)からお送りください。
+
+ご質問：furu3@getperf.net
 
 ---
 

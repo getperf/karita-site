@@ -1,6 +1,6 @@
-# 図書を予約する
+# 図書を予約する（Windows）
 
-画面例・操作はWindows版を標準に説明しています。Android・iPhoneの共有やアプリの切り替えは[スマートフォンでの操作](../smartphone.md)を参照してください。
+Windows では、ブラウザー拡張「karita に送る」で、予約に使った元のカーリル書籍を karita へ送ります。Android・iPhone は[図書を予約する（Android・iPhone）](reserve-smartphone.md)を参照してください。
 
 **ゴール：図書館で予約を済ませ、同じ本を karita に「予約した」と記録します。**
 
@@ -11,7 +11,7 @@
 <div><b>④ karita</b><br>本・図書館を確認し［予約した］</div>
 </div>
 
-[![予約からkaritaへの記録までの画面遷移例](../../img/guide/reservation-overview.png){ .karita-overview-image width="480" }](../../img/guide/reservation-overview.png)
+[![予約からkaritaへの記録までの画面遷移例](../img/guide/reservation-overview.png){ .karita-overview-image width="480" }](../img/guide/reservation-overview.png)
 
 セットアップが済んだ状態での画面遷移例です。図書館での手続きとkaritaへの記録は別の操作で、状態・期限は自動更新されません。
 
@@ -21,7 +21,7 @@
 
 カーリル側でも、検索対象の図書館を選びます。**この本の詳細タブは、予約を記録し終えるまで開いたままにしてください。**
 
-![カーリルで本と所蔵する図書館を確認](../../img/guide/calil-book.png){ width="620" }
+![カーリルで本と所蔵する図書館を確認](../img/guide/calil-book.png){ width="620" }
 
 ## 2. 図書館で予約を完了する
 
@@ -33,16 +33,16 @@
 
 **【ブラウザー → karita：karitaに送る】** ツールバーの「karita に送る」を開き、［元のカーリル書籍を karita に送る］を選びます。アプリを開く確認が出たら許可します。
 
-![図書館サイトから元のカーリル書籍を送る](../../img/guide/send-book.png){ width="620" }
+![図書館サイトから元のカーリル書籍を送る](../img/guide/send-book.png){ width="620" }
 
-[元の本を選べない・違う本が表示されたとき](../troubleshooting.md#book-handoff)
+[元の本を選べない・違う本が表示されたとき](troubleshooting.md#book-handoff)
 
 ## 4. 予約したことを記録する
 
 **【karita】** 表示された本と、実際に予約した図書館を確認し、［予約した］を押します。
 
-![本と図書館を確認して予約を記録](../../img/guide/record-reservation.png){ width="360" }
+![本と図書館を確認して予約を記録](../img/guide/record-reservation.png){ width="360" }
 
 「貸出し」の［予約中］で、対象の本と図書館が見つかれば完了です。次の本も、手順1〜4を繰り返します。
 
-[次へ：貸出しの棚卸をする →](../loans.md) ／ [送れないとき](../troubleshooting.md#book-handoff)
+[次へ：貸出しの棚卸をする →](loans.md) ／ [送れないとき](troubleshooting.md#book-handoff)

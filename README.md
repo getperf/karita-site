@@ -8,7 +8,8 @@ karita プロジェクト（karita アプリ、ブラウザ拡張「karita に�
 
 - 対象: karita アプリ（Windows / Android / iOS）、ブラウザ拡張「karita に送る」（Chrome / Edge）
 - 内容: プライバシーポリシー・利用規約、ブラウザー拡張の入れ方と連携確認ページ（`/extensions/`・`/extensions/check/`。karita アプリが直接開く URL なので、パスを変えない）
-- 技術スタック: MkDocs Material, GitHub Pages
+- ガイド構成: `docs/setup/`（端末別セットアップ）、`docs/guide/`（予約・貸出し・本棚など機能別の使い方）。予約だけは手順の順序が違うため `reserve-windows.md` / `reserve-smartphone.md` に分ける。2026-11 の再編前の URL は `mkdocs-redirects` で転送する（`mkdocs.yml` の `redirect_maps`）
+- 技術スタック: MkDocs Material, mkdocs-redirects, GitHub Pages
 
 ## セットアップ手順
 

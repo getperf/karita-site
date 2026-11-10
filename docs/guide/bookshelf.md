@@ -1,6 +1,6 @@
 # 本棚・レビューを使う
 
-画面例・操作はWindows版を標準に説明しています。Android・iPhoneの共有やアプリの切り替えは[スマートフォンでの操作](smartphone.md)を参照してください。
+Windows・Android・iPhone で同じ操作です。
 
 ## 本を探す
 

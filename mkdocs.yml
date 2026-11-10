@@ -39,17 +39,17 @@ nav:
   - Android版クローズドテスト: closed-test.md
   - 使い方:
       - セットアップ:
-          - Windows:
-              - インストール・初期設定: guide/windows/setup.md
-              - ブラウザーとつなぐ: extensions/index.md
-              - 図書館を登録する: guide/windows/libraries.md
-          - Android: guide/android/setup.md
-          - iPhone: guide/ios/add-device.md
-      - 使い方:
-          - 「予約」：本を探す・予約して記録する: guide/windows/reservation.md
-          - 「貸出し」：貸出し・返却を記録する: guide/loans.md
-          - 「本棚」：本棚・レビューを使う: guide/bookshelf.md
-          - スマートフォンでの操作: guide/smartphone.md
+          - Windowsのセットアップ:
+              - 1〜3. インストール・初期設定: setup/windows.md
+              - 4. ブラウザーとつなぐ: extensions/index.md
+              - 5. 図書館を登録する: setup/windows-libraries.md
+          - Androidのセットアップ: setup/android.md
+          - iPhoneのセットアップ: setup/iphone.md
+      - 「予約」：本を探して予約を記録する:
+          - Windows: guide/reserve-windows.md
+          - Android・iPhone: guide/reserve-smartphone.md
+      - 「貸出し」：貸出し・返却を記録する: guide/loans.md
+      - 「本棚」：本棚・レビューを使う: guide/bookshelf.md
       - 設定・同期・バックアップ:
           - 設定を変更する: guide/settings.md
           - 同期・バックアップ・復元: guide/data.md
@@ -58,10 +58,23 @@ nav:
   - 利用規約: terms.md
 
 # The link-check page is reached from the karita app and the guide only.
+# /extensions/ and /extensions/check/ are opened by the app and extension; keep these paths.
 not_in_nav: |
   /extensions/check.md
-  /guide/android/second-device.md
-  /guide/android/reservation.md
+
+# Keep URLs published before the 2026-11 reorganization working.
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        guide/windows/setup.md: setup/windows.md
+        guide/windows/libraries.md: setup/windows-libraries.md
+        guide/windows/reservation.md: guide/reserve-windows.md
+        guide/android/setup.md: setup/android.md
+        guide/android/second-device.md: setup/android.md
+        guide/android/reservation.md: guide/reserve-smartphone.md
+        guide/ios/add-device.md: setup/iphone.md
+        guide/smartphone.md: guide/reserve-smartphone.md
 
 # Internal planning documents are not published.
 exclude_docs: |
